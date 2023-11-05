@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactapp(repo%20name)/static/css/main.2b2543a0.css",
+    "main.js": "/reactapp(repo%20name)/static/js/main.4f3c776f.js",
+    "index.html": "/reactapp(repo%20name)/index.html",
+    "main.2b2543a0.css.map": "/reactapp(repo%20name)/static/css/main.2b2543a0.css.map",
+    "main.4f3c776f.js.map": "/reactapp(repo%20name)/static/js/main.4f3c776f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b2543a0.css",
+    "static/js/main.4f3c776f.js"
+  ]
+}
